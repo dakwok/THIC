@@ -14,6 +14,6 @@ To properly load and analyze images, image files must be in either .JPEG or .jpg
 - Set the particle size threshold in the 'Particle Size Threshold' box on the upper right. Use either the scrollbar or the input number to remove small particles containing x number of pixels. (5000-8000 generally works for most epidermal H&E images)
 - Adjust thresholds until the epidermis captured in the right screen matches the perimeter of the epidermis mapped on the left screen.
 - Click 'Region Detection' to run the THIC algorithm on the image.
-- Press 'Capture' to record the values. (ID = name of the file, Area (um^2) = scaled area based on the scale bar calibration used, Perimeter (um) = scaled perimeter based on the scale bar calibration used, Thickness Ratio = score for epidermal thickness) 
+- Press 'Capture' to record the values. (ID = name of the file, Area (um^2) = scaled area based on the scale bar calibration used, Perimeter (um) = scaled perimeter based on the scale bar calibration used, Thickness Ratio = score for epidermal thickness)
 
 (Last Updated June 15, 2021)  
