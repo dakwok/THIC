@@ -17,7 +17,7 @@ To properly load and analyze images, image files must be in either .JPEG or .jpg
 - Press 'Capture' to record the values. (ID = name of the file, Area (um^2) = scaled area based on the scale bar calibration used, Perimeter (um) = scaled perimeter based on the scale bar calibration used, Thickness Ratio = score for epidermal thickness) 
   
 (Last Updated June 15, 2021)  
-    
+     
        
    
   
