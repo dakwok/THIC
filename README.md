@@ -20,5 +20,5 @@ To properly load and analyze images, image files must be in either .JPEG or .jpg
       
           
           
-    
+     
     
