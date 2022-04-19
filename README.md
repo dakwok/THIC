@@ -14,7 +14,7 @@ Note: All ROIs must have the SAME PIXEL DIMENSIONS in order to have reliable com
 
 4. Browse for folder containing input images: Click "Browse" to navigate to the folder containing the input images. If using THIC v1.0.1, the folder and script file must be in the same parent folder. After selecting the folder, the file selection window will fill with all files within the folder.
 
-# 5. Select image to analyze: Select the filename for the image that you want to analyze. This will load the pre-processed image on the left window.
+5. Select image to analyze: Select the filename for the image that you want to analyze. This will load the pre-processed image on the left window.
 ## Running THIC GUI
 - Open the thic_gui.m file with any compatible versions of MATLAB (previously described)
 - Click 'Run' to initialize the GUI
