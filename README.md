@@ -28,7 +28,7 @@ Note: All ROIs must have the SAME PIXEL DIMENSIONS in order to have reliable com
 - Press 'Capture' to record the values. (ID = name of the file, Area (um^2) = scaled area based on the scale bar calibration used, Perimeter (um) = scaled perimeter based on the scale bar calibration used, Thickness Ratio = score for epidermal thickness) 
    
 (Last Updated April 20, 2022)    
-         
+          
             
           
      
