@@ -1,5 +1,5 @@
 # THIC: The Histological Inflammation Computation software
-This algorithm generates a MATLAB GUI that allows the user to analyze an H&amp;E stain of any epidermal cross section and output a score based on the the level of inflammation.
+This algorithm generates a MATLAB GUI that allows the user to analyze an H&amp;E stain of any epidermal cross section and output a score based on the the level of inflammation. 
 ## Software and Code Details
 This algorithm and guidance user interface (GUI) was written in MATLAB (version R2020b, 9.9.0.1467703). Download and load the script using the corresponding MATLAB version(s) and press "Run" to initialize the GUI. 
 ## Input Requirements
