@@ -19,7 +19,7 @@ Note: All ROIs must have the SAME PIXEL DIMENSIONS in order to have reliable com
 - Open the thic_gui.m file with any compatible versions of MATLAB (previously described)
 - Click 'Run' to initialize the GUI
 - Click 'Browse' in the upper right box labeled 'Setup' and choose the folder containing the image files that you want to analyze. If the dropdown menu next to 'Browse' says 'Open Folder'. this means that a folder has not yet been selected.
-- Click 'Upload' in the lower box labeled 'Intensity' and choose the folder containing the scale bars. Once the folder has been chosen, load the appropriate scale bar from the dropdown and press 'Calibrate'.
+- Click 'Upload' in the lower box labeled 'Intensity' and choose the folder containing the scale bars. Once the folder has been chosen, load the appropriate scale bar from the dropdown and press 'Calibrate'. 
 - Select image file from the dropdown in the 'Setup' box.
 - Set the lower bound pixel luminance intensity in the 'Intensity' box with either the scrollbar or inputting a value between 0.00 and 1.00 in the entry box.
 - Set the particle size threshold in the 'Particle Size Threshold' box on the upper right. Use either the scrollbar or the input number to remove small particles containing x number of pixels. (5000-8000 generally works for most epidermal H&E images)
